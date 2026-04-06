@@ -1,4 +1,4 @@
-## Hi, I'm Santiago 👋
+## Hi, I'm Santiago 
 
 Aspiring **Data Analyst** from Colombia 🇨🇴 — I build interactive dashboards and explore datasets to uncover patterns that drive decisions.
 
@@ -7,7 +7,7 @@ Aspiring **Data Analyst** from Colombia 🇨🇴 — I build interactive dashboa
 - **SQL** — relational databases, querying, aggregations
 - **Java** — OOP, data structures
 
-### 📌 Featured Project
+###  Featured Project
 **EV Analytics Dashboard** · [Live Demo](https://santi27.shinyapps.io/estadistica_descriptiva/)
 
 Interactive R Shiny app analyzing 3,000 electric vehicle records (Kaggle dataset) with 25 variables. Features include:
@@ -18,10 +18,10 @@ Interactive R Shiny app analyzing 3,000 electric vehicle records (Kaggle dataset
 
 > Dataset: Electric Vehicle Analytics — Yadav, Kaggle
 
-### 🎯 Currently looking for
+###  Currently looking for
 Remote Data Analyst roles with US companies · Open to entry-level & junior positions
 
-### 📫 Reach me
+###  Reach me
 [LinkedIn](https://www.linkedin.com/in/santiago-ortiz-539287363/) · santi27.shinyapps.io## Hi there 👋
 
 <!--
